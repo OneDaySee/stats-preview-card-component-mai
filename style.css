@@ -43,7 +43,7 @@ body {
   text-align: center;
   border-radius: 10px;
   background: var(--dark-desaturated-blue);
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .info {
